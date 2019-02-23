@@ -4,10 +4,10 @@ All notable changes to `normalize-phone` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## NEXT - YYYY-MM-DD
+## 2019-02-23
 
 ### Added
-- Nothing
+- Initial version of phone number normalization code.
 
 ### Deprecated
 - Nothing

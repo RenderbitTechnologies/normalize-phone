@@ -26,11 +26,11 @@ $ composer require renderbit/normalize-phone
 ## Usage
 
 ``` php
-normalize_phone('9434012345'); // '919434012345'
-normalize_phone('+919434012345'); // '919434012345'
-normalize_phone('+91-9434012345'); // '919434012345'
-normalize_phone('+19434012345'); // '19434012345'
-normalize_phone('+91 9434012345'); // '919434012345'
+normalize_phone('9434012345');        // '919434012345'
+normalize_phone('+919434012345');     // '919434012345'
+normalize_phone('+91-9434012345');    // '919434012345'
+normalize_phone('+19434012345');      // '19434012345'
+normalize_phone('+91 9434012345');    // '919434012345'
 normalize_phone('(+91) 94340 12345'); // '919434012345'
 ```
 
@@ -61,7 +61,7 @@ If you discover any security related issues, please email &ldquo;contact `at` re
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/RenderbitTechnologies/normalize-phone.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/renderbit/normalize-phone.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/RenderbitTechnologies/normalize-phone/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/RenderbitTechnologies/normalize-phone.svg?style=flat-square
