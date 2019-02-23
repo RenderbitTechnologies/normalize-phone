@@ -1,0 +1,50 @@
+{
+    "name": "renderbit/normalize-phone",
+    "type": "library",
+    "description": "Normalize phone numbers (with or without country code)",
+    "keywords": [
+        "RenderbitTechnologies",
+        "normalize-phone"
+    ],
+    "homepage": "https://github.com/RenderbitTechnologies/normalize-phone",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renderbit Technologies",
+            "email": "contact@renderbit.com",
+            "homepage": "https://renderbit.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : "~7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=7.0",
+        "psy/psysh": "^0.9.9",
+        "squizlabs/php_codesniffer": "^3.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "RenderbitTechnologies\\NormalizePhone\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "check-style": "phpcs src tests",
+        "fix-style": "phpcbf src tests"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
