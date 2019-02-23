@@ -1,6 +1,6 @@
 <?php
 
-if( !function_exists('normalize_phone') ) {
+if (!function_exists('normalize_phone')) {
     /**
      *
      * Normalize a phone number (with or without country code)
