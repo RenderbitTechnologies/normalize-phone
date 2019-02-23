@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="RenderbitTechnologies Test Suite">
+        <testsuite name="Normalize Phone Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
