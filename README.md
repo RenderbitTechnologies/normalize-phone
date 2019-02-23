@@ -66,12 +66,12 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-travis]: https://img.shields.io/travis/RenderbitTechnologies/normalize-phone/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/RenderbitTechnologies/normalize-phone.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/RenderbitTechnologies/normalize-phone.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/RenderbitTechnologies/normalize-phone.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/renderbit/normalize-phone.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/RenderbitTechnologies/normalize-phone
+[link-packagist]: https://packagist.org/packages/renderbit/normalize-phone
 [link-travis]: https://travis-ci.org/RenderbitTechnologies/normalize-phone
 [link-scrutinizer]: https://scrutinizer-ci.com/g/RenderbitTechnologies/normalize-phone/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/RenderbitTechnologies/normalize-phone
-[link-downloads]: https://packagist.org/packages/RenderbitTechnologies/normalize-phone
+[link-downloads]: https://packagist.org/packages/renderbit/normalize-phone
 [link-author]: https://github.com/RenderbitTechnologies
 [link-contributors]: ../../contributors
